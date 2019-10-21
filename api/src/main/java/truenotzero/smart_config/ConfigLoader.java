@@ -1,6 +1,5 @@
 package truenotzero.smart_config;
 
-import com.google.gson.Gson;
 import truenotzero.smart_config.api.ConfigClassLocator;
 import truenotzero.smart_config.api.ConfigFile;
 import truenotzero.smart_config.api.ConfigFileProvider;

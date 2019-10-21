@@ -1,6 +1,5 @@
 package truenotzero.smart_config.api;
 
-import org.reflections.Reflections;
 import truenotzero.smart_config.Config;
 
 import java.util.Set;
