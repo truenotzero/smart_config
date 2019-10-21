@@ -1,6 +1,7 @@
 
 plugins {
 	java
+    `java-library`
 }
 
 group = "truenotzero"
